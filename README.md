@@ -32,5 +32,3 @@ ___
 [MYA](https://namu.wiki/w/GitHub)
 
 [ㅁㅑ!](https://namu.wiki/w/GitHub, "mya")
-
-!
